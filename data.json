@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "dbe6db92-0b06-4c3c-8dbb-a58717e5806d",
+      "name": "Farid",
+      "email": "f@golfoox.com",
+      "password": "$2b$10$5SqqSrObB2ZN8Z11oUQTmeUWSxBBs57Ix6iiq.wo/wuDslCIWtaHO"
+    },
+    {
+      "id": "50732d2f-3518-482f-9724-cc3ef3fc691a",
+      "name": "Farid",
+      "email": "f.goldouzian@gmail.com",
+      "password": "$2b$10$pQPxe48bzeD67eZzpgxy..JSFmJARLAG6h80Nhx.jbGKZwK/YUyCG"
+    }
+  ],
+  "challenges": [],
+  "invitations": [],
+  "penalties": [],
+  "charities": [
+    {
+      "id": "charity1",
+      "name": "محک",
+      "link": "https://mahak-charity.org/online-payment/"
+    },
+    {
+      "id": "charity2",
+      "name": "کهریزک",
+      "link": "https://kahrizakcharity.com/"
+    }
+  ]
+}
