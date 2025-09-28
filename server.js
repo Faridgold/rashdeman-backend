@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const DATA_FILE = '/tmp/data.json';
+const DATA_FILE = '/app/data/data.json';
 const PORT = 3001;
 
 // خواندن داده‌ها از فایل
